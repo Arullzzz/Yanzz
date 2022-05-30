@@ -871,32 +871,32 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
           "title": msg,
           "description": des,
           "footerText": global.botdate,
-          "buttonText": "Ynz BOT",
+          "buttonText": "Arull Botz",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
                                 "rows": [{
                                          "title": `MY OWNER`,
-                                         "description": "List Owner Ynz BOT",
+                                         "description": "List Owner ArullBotz",
                                          "rowId": ".nowner"
                                     }, {
                                          "title": `ABOUT`,
-                                         "description": " Tentang Ynz BOT", 
+                                         "description": " Tentang ArullBotz", 
                                          "rowId": ".info"
                                     }, {
                                          "title": `LIST MENU`,
-                                         "description": " List Menu Ynz BOT",
+                                         "description": " List Menu ArullBotz",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `SCRIPT`,
-                                         "description": " Source code Ynz BOT",
+                                         "description": " Source code ArullBotz",
                                          "rowId": ".sc"
                                          }, {
                                          "title": `GROUP BOT`,
-                                         "description": " List Group Official Ynz BOT",
+                                         "description": " List Group Official ArullBotz",
                                          "rowId": ".gcbot"
                        }],
-                    "title": "Created By Ynz - Ganz ♡"
+                    "title": "Created By Arull ♡"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
