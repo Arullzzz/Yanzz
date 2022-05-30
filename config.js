@@ -34,9 +34,9 @@ function pickRandom(list) {
 
 
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6288287810316', '6282186172016' ,'6288272489919','','', '', ''] // Put your number here
-global.mods = ['6288287810316', '6282186172016' ,'6288272489919'] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e'] // ganti jadi group lu
+global.owner = ['6285822347348', '6285822347348' ,'6285822347348','','', '', ''] // Put your number here
+global.mods = ['6285822347348', '6285822347348' ,'6285822347348'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,12 +73,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Ynz вσт.'
+global.packname = 'ArullBotz.'
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `🤖 Ynz вσт`//UBAH JADI NAMAMU
-global.wm = `Ynz вσт`
+global.botwm = `🤖 ArullBotz`//UBAH JADI NAMAMU
+global.wm = `ArullBotz`
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
@@ -96,7 +96,7 @@ global.CanvasAPI = '';
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 9999999 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
